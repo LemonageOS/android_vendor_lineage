@@ -10,7 +10,6 @@ PRODUCT_PACKAGES += \
 # Lineage packages
 PRODUCT_PACKAGES += \
     Backgrounds \
-    Eleven \
     Jelly \
     Profiles \
     Seedvault
